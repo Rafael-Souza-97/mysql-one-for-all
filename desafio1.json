@@ -1,7 +1,7 @@
 {
   "tabela_usuario": "users_data",
   "coluna_usuario": "user_name",
-  "tabela_plano": "signature_plans",
+  "tabela_plano": "spotify_plans",
   "coluna_plano": "plan_name",
   "tabela_historico_de_reproducoes": "playback_history",
   "coluna_historico_de_reproducoes": "song_id",
