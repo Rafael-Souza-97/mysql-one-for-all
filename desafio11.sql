@@ -9,5 +9,5 @@ SELECT
     END AS 'novo_nome'
 FROM
     SpotifyClone.songs
-GROUP BY songs.song_name HAVING novo_nome <> nome_musica
+GROUP BY songs.song_name HAVING novo_nome IS NOT NULL
 ORDER BY nome_musica DESC;
