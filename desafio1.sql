@@ -34,7 +34,7 @@ DROP DATABASE IF EXISTS SpotifyClone;
     (7, 'Bell Hooks', 26, '2018-01-05', 3),
     (8, 'Christopher Alexander', 85, '2019-06-05', 4),
     (9, 'Judith Butler', 45, '2020-05-13', 4),
-    (10, 'exemplo de dados', 58, '2017-02-17', 4);
+    (10, 'Jorge Amado', 58, '2017-02-17', 4);
 
   CREATE TABLE SpotifyClone.artists	(
     artist_id INT PRIMARY KEY,
@@ -79,7 +79,7 @@ DROP DATABASE IF EXISTS SpotifyClone;
   VALUES
     (1, 'BREAK MY SOUL', 279, 1),
     (2, 'VIRGO’S GROOVE', 369, 1),
-    (3, 'ALIEN SUPERSTAR', 152, 1),
+    (3, 'ALIEN SUPERSTAR', 116, 1),
     (4, 'Don’t Stop Me Now', 203, 2),
     (5, 'Under Pressure', 152, 3),
     (6, 'Como Nossos Pais',  105, 4),
