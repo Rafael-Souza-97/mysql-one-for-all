@@ -3,7 +3,6 @@
 Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para reforçar os conhecimentos sobre Docker. O trabalho consiste em criar uma base 
 de dados, estruturar e desenvolver querys para filtragem e análise. A aplicação MySQL está configurada para rodar dentro de um container [Docker](https://www.docker.com/).
 
-
 ## Autor
 
 - [Rafael Souza](https://github.com/Rafael-Souza-97)
