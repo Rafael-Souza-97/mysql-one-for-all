@@ -6,7 +6,7 @@ de dados, estruturar e desenvolver querys para filtragem e análise. A aplicaç�
  <br>
 
 <details>
-  <summary><strong>Como instalar o Projeto One-For-all</strong></summary><br />
+  <summary><strong>Como instalar o Projeto MySQL-One-For-all</strong></summary><br />
 
 ## Instalação
  
