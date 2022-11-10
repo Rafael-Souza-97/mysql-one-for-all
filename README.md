@@ -57,7 +57,7 @@ npm install
   > Execute a aplicação com `npm start` ou `npm run dev`
 
  <br>
- <br>
+<hr>
  
 ### Rodando a aplicação SEM [Docker](https://www.docker.com/)
 
@@ -79,8 +79,8 @@ git clone git@github.com:Rafael-Souza-97/mysql-one-for-all.git
 npm install
 ```
 
-<br>
 <hr>
+<br>
 
 </details>
 
