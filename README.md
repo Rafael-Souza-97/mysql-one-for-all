@@ -1,9 +1,8 @@
 # MySQL (One-For-all)
 
-Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para reforçar os conhecimentos sobre Docker. O trabalho consiste em criar uma base 
-de dados, estruturar e desenvolver querys para filtragem e análise. A aplicação MySQL está configurada para rodar dentro de um container [Docker](https://www.docker.com/).
+Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para reforçar os conhecimentos sobre criação de banco de dados via [MySQL](https://www.mysql.com/). O trabalho consiste em criar uma base de dados, estruturar e desenvolver queries para filtragem e análise. A aplicação [MySQL](https://www.mysql.com/) está configurada para rodar dentro de um container [Docker](https://www.docker.com/).
 
- <br>
+<br>
 
 <details>
   <summary><strong>Como instalar o Projeto MySQL-One-For-all</strong></summary><br />
@@ -18,7 +17,7 @@ de dados, estruturar e desenvolver querys para filtragem e análise. A aplicaç�
 
 <br>
 
-- Clone o repositório `git@github.com:Rafael-Souza-97/mysql-one-for-all.git`;
+- Clone o repositório `git@github.com:Rafael-Souza-97/mysql-one-for-all.git`:
 
 ```bash
 git clone git@github.com:Rafael-Souza-97/mysql-one-for-all.git
@@ -26,7 +25,15 @@ git clone git@github.com:Rafael-Souza-97/mysql-one-for-all.git
 
 <br>
 
-- Rode o serviço `node` com o comando `docker-compose up -d`.
+- Entre na pasta do repositório que você acabou de clonar:
+
+```bash
+cd mysql-one-for-all
+```
+
+<br>
+
+- Rode o serviço `node` com o comando `docker-compose up -d`:
 
  > - Esse serviço irá inicializar um container chamado `one_for_all`.
  > - A partir daqui você pode rodar o container via CLI ou abri-lo no VS Code.
@@ -37,7 +44,7 @@ docker-compose up -d
 
 <br>
 
-- Use o comando `docker exec -it one_for_all bash`.
+- Use o comando `docker exec -it one_for_all bash`:
 
  > - Ele te dará acesso ao terminal interativo do container criado pelo compose, que está rodando em segundo plano.
  > - As credencias de acesso ao banco de dados estão definidas no arquivo `docker-compose.yml`, e são acessíveis no container através das variáveis de    ambiente `MYSQL_USER` e `MYSQL_PASSWORD`.
@@ -48,15 +55,15 @@ docker exec -it one_for_all bash
 
 <br>
 
-- Instale as depëndencias, caso necessário, com `npm install` (dentro do bash do container).
+- Instale as depëndencias, caso necessário, com `npm install` (dentro do bash do container):
 
 ```bash
 npm install
 ```
 
-  > Execute a aplicação com `npm start` ou `npm run dev`
+ > Execute a aplicação com `npm start` ou `npm run dev`
 
- <br>
+<br>
 <hr>
  
 ### Rodando a aplicação SEM [Docker](https://www.docker.com/)
@@ -65,7 +72,7 @@ npm install
  
  <br>
 
-- Clone o repositório `git@github.com:Rafael-Souza-97/mysql-one-for-all.git`;
+- Clone o repositório `git@github.com:Rafael-Souza-97/mysql-one-for-all.git`:
 
 ```bash
 git clone git@github.com:Rafael-Souza-97/mysql-one-for-all.git
@@ -73,7 +80,7 @@ git clone git@github.com:Rafael-Souza-97/mysql-one-for-all.git
 
 <br>
 
- - Instale as depëndencias, caso necessário, com `npm install`.
+ - Instale as depëndencias, caso necessário, com `npm install`:
 
 ```bash
 npm install
