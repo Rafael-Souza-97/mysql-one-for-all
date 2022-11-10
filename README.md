@@ -86,6 +86,8 @@ git clone git@github.com:Rafael-Souza-97/mysql-one-for-all.git
 npm install
 ```
 
+ > Execute a aplicação com `npm start` ou `npm run dev`
+
 <hr>
 <br>
 
