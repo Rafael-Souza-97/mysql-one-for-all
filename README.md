@@ -116,4 +116,3 @@ npm install
 ## Infos Adicionais
 
 - ###### Percentual de cumprimento de requisitos ([Trybe](https://www.betrybe.com/))- 100%
-
