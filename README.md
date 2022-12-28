@@ -1,6 +1,8 @@
 # MySQL (One-For-all)
 
-Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para reforçar os conhecimentos sobre criação de banco de dados via [MySQL](https://www.mysql.com/) e utilização do [MySQL Workbench](https://www.mysql.com/products/workbench/). O projeto consiste em criar uma base de dados, estruturar e desenvolver queries para filtragem e análise. A aplicação [MySQL](https://www.mysql.com/) está configurada para rodar dentro de um container [Docker](https://www.docker.com/).
+Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para reforçar os conhecimentos sobre criação de banco de dados via [MySQL](https://www.mysql.com/) e utilização do [MySQL Workbench](https://www.mysql.com/products/workbench/). 
+
+O projeto consiste em criar uma base de dados, estruturar e desenvolver queries para filtragem e análise. A aplicação [MySQL](https://www.mysql.com/) está configurada para rodar dentro de um container [Docker](https://www.docker.com/).
 
 <br>
 
